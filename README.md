@@ -35,7 +35,11 @@ DomainController showing client1:  <br/>
 <img src= "https://imgur.com/9SnafvR.png" height="80%" width="80%" alt="AD"/>
 <br />
 <br />
-  
+User 'acoke' signed in:  <br/>
+<img src= "https://imgur.com/jugjVCU.png" height="80%" width="80%" alt="AD"/>
+<br />
+<br />  
+
 </p>
 
 <!--
